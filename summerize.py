@@ -38,6 +38,9 @@ def summerize_data(numbers):
     op_dict = {"count" : count, "sum" : total, "min" : smallest, "max" : largest, "average" : round(average,2)}
     return op_dict
 
+
+
+
 # inuilt variables __name__ and __main__
 if __name__ == "__main__":
     # take input from terminal
