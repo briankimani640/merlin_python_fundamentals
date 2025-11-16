@@ -6,13 +6,20 @@ extensive libs.
 oop - object oriented programming
 dynamically typed - python will try to assign a data type to a value , sometimes we need to be specific
 Fundamentals
-basics a. syntax and structure
-
+basics 
+a. syntax and structure
+###
 indentation - use 4 spaces to define code blocks
 no usage of semi colon
 comments in python start with #
-b. variables c. data types d. input and output e. Type casting f. python operators g. data type operations
-control flows a. conditional statements - if ,elif, else b. loops
+b. variables
+c. data types
+d. input and output
+e. Type casting
+f. python operators
+g. data type operations
+control flows
+a. conditional statements - if ,elif, else b. loops
 
 functions
 
@@ -80,11 +87,17 @@ Dog class -> attributes - > name -> breed -> age objects -> different dogs creat
 Python treats everything like an object
 
 FOUR PILLARS OF OOP - a guide on desing thinking for outr oop approach
+
 Encapsulation - bundle data and behaviour(methods) in one place (class)
+
 keep related things together
+
 keeps data safe and ensures no mix up data / behaviour relative to the domain
+
+
 Abstraction - hiding complex details and showing only the important stuff
 simple methods that hide complex process
+
 Inheritance - allows once class to use atrributes and methods of another -reuse code , make relationships between our classes more clear
 Polymorphism - different objects can respond to the same method in different ways
 DOMAIN EXAMPLE : RETAIL SYSTEM
@@ -97,3 +110,4 @@ one to one relationship : object to object
 one to many relationship : object to multiple objects
 many to many relationship : association class set up : many objects to many objects
 3 minutes break
+
